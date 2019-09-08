@@ -1,3 +1,4 @@
+package dataType;
 import java.util.Arrays;
 
 public class Array {
